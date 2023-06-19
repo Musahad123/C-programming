@@ -1,2 +1,2 @@
-# PPA
+# C Programming
 C Programs
